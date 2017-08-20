@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1029472464167",
+    "firebase_url": "https://perfectkitchen-d2d8f.firebaseio.com",
+    "project_id": "perfectkitchen-d2d8f",
+    "storage_bucket": "perfectkitchen-d2d8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029472464167:android:a98c5dd11a414ab8",
+        "android_client_info": {
+          "package_name": "com.example.muaaz.perfectkitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029472464167-kmbe7qp505rrvkad8ro7vrucjfaj90kf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muaaz.perfectkitchen",
+            "certificate_hash": "6a098ba25adee7dda5b8192d23a02af40f1d8838"
+          }
+        },
+        {
+          "client_id": "1029472464167-0d9ofijql0klks2iipk0q7slotq28iop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2rkbDXKmrBwTigtd4t4HudCC4FCTP-xs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029472464167-0d9ofijql0klks2iipk0q7slotq28iop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
